@@ -12,7 +12,7 @@ But Remote Mob Programming is more than that.
 >
 > &mdash; <cite>[Simon Harrer](https://twitter.com/simonharrer), [Jochen Christ](https://twitter.com/jochen_christ), and [Martin Huber](https://twitter.com/Waterback)</cite>
 
-Below, we summarize the essentials of successful Remote Mob Programming as we understand them.
+Below, we summarize the essentials of successful Remote Mob Programming as we understand them. 
 
 ## Here's how we do Remote Mob Programming.
 
