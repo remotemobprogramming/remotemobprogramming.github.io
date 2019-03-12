@@ -27,7 +27,7 @@ Below, we summarize the essentials of successful Remote Mob Programming as we un
 1. [Git Handover](#Git-Handover)
 1. [Group Decisions](#Group-Decisions)
 1. [Constant Momentum](#Constant-Momentum)
-1. [Learn from the team](#Learn-form-the-team)
+1. [Learn from the Team](#Learn-from-the-Team)
 1. [Trust](#Trust)
 1. [Save the Planet](#Save-the-Planet)
 1. [Dine with your Family](#Dine-with-your-Family)
