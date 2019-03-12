@@ -294,6 +294,7 @@ Hardware we use
 - [Blue Yeti Microphone](https://www.bluedesigns.com/products/yeti/) for great audio
 - [Logitech C920 HD Pro Webcam](https://www.logitech.com/de-de/product/hd-pro-webcam-c920) for 1080p video
 
+
 ## Authors
 
 Content by [Simon Harrer](https://twitter.com/simonharrer), [Jochen Christ](https://twitter.com/jochen_christ), and [Martin Huber](https://twitter.com/Waterback).
