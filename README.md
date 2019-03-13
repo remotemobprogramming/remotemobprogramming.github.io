@@ -224,7 +224,7 @@ With Mob Programming, onboarding only takes weeks, not years.
 ![Trust](icons/trust.png)
 ### Trust
 
-We all work remote.
+We all work remotely.
 The client does not _see_ us working.
 Management had a natural fear of losing control over the team.
 
