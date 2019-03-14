@@ -32,8 +32,8 @@ Below, we summarize the essentials of successful Remote Mob Programming as we un
 1. [Save the Planet](#save-the-planet)
 1. [Dine with your Family](#dine-with-your-family)
 
-![Remote Everybody](icons/remote-everybody.png) 
-### Remote Everybody
+
+### ![Remote Everybody](icons/remote-everybody.png){:height="24px" width="24px"} Remote Everybody 
 
 For Remote Mob Programming, it is essential that everybody works remotely by default.
 It does not work if part of the team works on-site. This will lead to [information asymmetry](https://en.wikipedia.org/wiki/Information_asymmetry).
