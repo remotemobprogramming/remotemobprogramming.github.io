@@ -116,7 +116,7 @@ This balances the participation of all team members and it reduces the dominance
 We feel most comfortable working in our own individual environment.
 It is where we are most productive. 
 
-The typist shares their primary screen, showing the IDE.
+The typist shares her primary screen, showing the IDE.
 It is a good practice to show the IDE fullscreen and disable notifications.
 
 _We all look at the same shared screen._
@@ -230,7 +230,7 @@ It could be some personal stuff, too.
 Management also reads this channel and thereby is informed.
 Obviously, we have no need for a [Daily Scrum](https://www.scrum.org/resources/what-is-a-daily-scrum).
 
-We always take care to hold to our commitments and deliver high quality code in time.
+We always ensure to deliver what we committed to in high quality as well as in time.
 That builds solid trust in the long term.
 
 ### ![Save the Planet](icons/save-the-planet.png){:height="36px" width="36px"}&nbsp;&nbsp;Save the Planet
