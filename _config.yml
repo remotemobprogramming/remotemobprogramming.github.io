@@ -1,2 +1,4 @@
+plugins:
+  - jekyll-sitemap
 markdown: kramdown
 title: Remote Mob Programming
