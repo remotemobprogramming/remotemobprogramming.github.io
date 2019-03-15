@@ -165,7 +165,7 @@ We created a small tool [mob](https://github.com/remotemobprogramming/mob) to si
 
 In software engineering, you constantly compare different alternatives and decide for one.
 Reversing decisions is often expensive.
-[Group decisions are superior over individual decisions](https://environmentalevidencejournal.biomedcentral.com/articles/10.1186/s13750-016-0066-7).
+[Group decisions are superior over individual decisions](https://en.wikipedia.org/wiki/Group_decision-making).
 In Remote Mob Programming, all decisions are group decisions.
 
 _We are happy with our decisions._
