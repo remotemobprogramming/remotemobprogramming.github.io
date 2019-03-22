@@ -289,9 +289,7 @@ Videos and Podcasts
 ## Authors
 
 Content by [Simon Harrer](https://twitter.com/simonharrer), [Jochen Christ](https://twitter.com/jochen_christ), and [Martin Huber](https://twitter.com/Waterback).
-
 Design by [Sonja Scheungrab](https://twitter.com/multebaerr).
  
 Supported by [INNOQ](https://www.innoq.com/en/).
- 
 [Imprint](https://www.innoq.com/en/impressum/) [Privacy](https://www.innoq.com/en/datenschutz-20180524/)
