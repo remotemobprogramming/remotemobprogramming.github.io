@@ -255,6 +255,23 @@ With Remote Mob Programming we get both, rewarding work and quality time with ou
 
 ## Resources
 
+Methods we use
+
+- [Daily check-ins](#trust) to actively communicate our experiences to other teams and managers.
+- [Architecture Decision Records](#group-decisions) to document the why of important decisions. 
+- [Hill Charts](https://basecamp.com/features/hill-charts) to visualize uncertainty and progress.
+
+Software we use
+
+- [appear.in](https://appear.in) for screensharing
+- [mob](https://github.com/remotemobprogramming/mob) for quick git handover (developed by us) 
+- [timer (OS X only)](https://github.com/michaelvillar/timer-app) for tracking mob intervals
+
+Hardware we use
+
+- [Blue Yeti Microphone](https://www.bluedesigns.com/products/yeti/) for great audio
+- [Logitech C920 HD Pro Webcam](https://www.logitech.com/de-de/product/hd-pro-webcam-c920) for 1080p video
+
 Books
 
 - [Code with the Wisdom of the Crowd by Mark Pearl](https://pragprog.com/book/mpmob/code-with-the-wisdom-of-the-crowd)
@@ -267,17 +284,6 @@ Videos and Podcasts
 - [Mob Programming: A Whole Team Approach by Woody Zuill](https://www.youtube.com/watch?v=SHOVVnRB4h0)
 - [Leaping back into the code via Remote Mobbing by Sal Freudenberg](https://www.pscp.tv/w/1kvKpEEklQQGE?t=24s)
 - [Episode 'Mob' in Agile in 3 Minutes by Amitai Schleier](https://agilein3minut.es/32/)
-
-Software we use
-
-- [appear.in](https://appear.in) for screensharing
-- [mob](https://github.com/remotemobprogramming/mob) for quick git handover (developed by us) 
-- [timer (OS X only)](https://github.com/michaelvillar/timer-app) for tracking mob intervals
-
-Hardware we use
-
-- [Blue Yeti Microphone](https://www.bluedesigns.com/products/yeti/) for great audio
-- [Logitech C920 HD Pro Webcam](https://www.logitech.com/de-de/product/hd-pro-webcam-c920) for 1080p video
 
 
 ## Authors
