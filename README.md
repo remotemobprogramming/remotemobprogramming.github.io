@@ -12,7 +12,7 @@ But Remote Mob Programming is more than that.
 
 Below, we summarize the essentials of successful Remote Mob Programming as we understand them. 
 
-## Here's how we do Remote Mob Programming.
+## Here's how we do Remote Mob Programming
 
 1. [Remote Everybody](#remote-everybody)
 1. [Camera Always On](#camera-always-on)
