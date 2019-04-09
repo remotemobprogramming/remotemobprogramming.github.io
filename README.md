@@ -292,6 +292,6 @@ Videos and Podcasts
 Content by [Simon Harrer](https://twitter.com/simonharrer), [Jochen Christ](https://twitter.com/jochen_christ), and [Martin Huber](https://twitter.com/Waterback).
 Design by [Sonja Scheungrab](https://twitter.com/multebaerr).
 
-[Imprint](https://www.innoq.com/en/impressum/) [Privacy](https://www.innoq.com/en/datenschutz-20180524/)
+[Legal Notice](https://www.innoq.com/en/impressum/) [Privacy](https://www.innoq.com/en/datenschutz-20180524/)
 
 Supported by [<img src="images/innoq-logo--bluered.svg" alt="INNOQ" width="60">](https://www.innoq.com/en/)
