@@ -288,13 +288,13 @@ Videos and Podcasts
 
 ## Authors
 
-![Simon](images/simon-avatar.png){:height="80px" width="80px"}
+<img src="images/simon-avatar.png" alt="Simon" width="80" style="float:left; padding: 12px">
 [Simon Harrer](https://twitter.com/simonharrer) is a senior consultant at INNOQ. As part of a remote mob, he fights everyday out for simple solutions with domain-driven design, fitting architectures such as microservices or monoliths, and clean code in Java, Ruby or even JavaScript. Most recently, he wrote the book [Java by Comparison](https://java.by-comparison.com) that helps Java beginners to write cleaner code through before/after comparisons.
 
-![Jochen](images/jochen-avatar.png){:height="80px" width="80px"}
-[Jochen Christ](https://twitter.com/jochen_christ) is a software engineer and works in IT consulting for 10 years. As a specialist for modern Java technologies, he creates elegant solutions with innovative architecture concepts, such as Microservices, Docker and cloud computing. Jochen is interested in agile methods, clean code and usable security. He is a speaker at international conferences and enjoys participating in local meetups.
+<img src="images/jochen-avatar.png" alt="Jochen" width="80" style="float:left; padding: 12px">
+[Jochen Christ](https://twitter.com/jochen_christ) is a senior consultant at INNOQ. As a specialist for modern Java technologies, he creates elegant solutions with innovative architecture concepts, such as Microservices, Docker and cloud computing. Jochen is interested in agile methods, clean code and usable security. He is a speaker at international conferences and enjoys participating in local meetups.
 
-![Martin](images/martin-avatar.png){:height="80px" width="80px"}
+<img src="images/martin-avatar.png" alt="Martin" width="80" style="float:left; padding: 12px">
 [Martin Huber](https://twitter.com/Waterback) is a senior consultant at INNOQ. More than a decade of his professional life is filled with the design and creation of Integration-Applications in Java. His main focus is on Java EE and web technologies for complex integration challenges.
 
 Design by [Sonja Scheungrab](https://twitter.com/multebaerr).
