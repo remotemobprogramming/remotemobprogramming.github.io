@@ -286,10 +286,17 @@ Videos and Podcasts
 - [Leaping back into the code via Remote Mobbing by Sal Freudenberg](https://www.pscp.tv/w/1kvKpEEklQQGE?t=24s)
 - [Episode 'Mob' in Agile in 3 Minutes by Amitai Schleier](https://agilein3minut.es/32/)
 
-
 ## Authors
 
-Content by [Simon Harrer](https://twitter.com/simonharrer), [Jochen Christ](https://twitter.com/jochen_christ), and [Martin Huber](https://twitter.com/Waterback).
+![Simon](images/simon-avatar.png){:height="80px" width="80px"}
+[Simon Harrer](https://twitter.com/simonharrer) is a senior consultant at INNOQ. As part of a remote mob, he fights everyday out for simple solutions with domain-driven design, fitting architectures such as microservices or monoliths, and clean code in Java, Ruby or even JavaScript. Most recently, he wrote the book [Java by Comparison](https://java.by-comparison.com) that helps Java beginners to write cleaner code through before/after comparisons.
+
+![Jochen](images/jochen-avatar.png){:height="80px" width="80px"}
+[Jochen Christ](https://twitter.com/jochen_christ) is a software engineer and works in IT consulting for 10 years. As a specialist for modern Java technologies, he creates elegant solutions with innovative architecture concepts, such as Microservices, Docker and cloud computing. Jochen is interested in agile methods, clean code and usable security. He is a speaker at international conferences and enjoys participating in local meetups.
+
+![Martin](images/martin-avatar.png){:height="80px" width="80px"}
+[Martin Huber](https://twitter.com/Waterback) is a senior consultant at INNOQ. More than a decade of his professional life is filled with the design and creation of Integration-Applications in Java. His main focus is on Java EE and web technologies for complex integration challenges.
+
 Design by [Sonja Scheungrab](https://twitter.com/multebaerr).
 
 [Legal Notice](https://www.innoq.com/en/impressum/) [Privacy](https://www.innoq.com/en/datenschutz-20180524/)
