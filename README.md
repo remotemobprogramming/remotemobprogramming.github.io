@@ -295,7 +295,9 @@ Videos and Podcasts
 [Jochen Christ](https://twitter.com/jochen_christ) is a senior consultant at INNOQ. As a specialist for modern Java technologies, he creates elegant solutions with innovative architecture concepts, such as Microservices, Docker and cloud computing. Jochen is interested in agile methods, clean code and usable security. He is a speaker at international conferences and enjoys participating in local meetups.
 
 <img src="images/martin-avatar.png" alt="Martin" width="80" style="float:left; padding: 12px">
-[Martin Huber](https://twitter.com/Waterback) is a senior consultant at INNOQ. More than a decade of his professional life is filled with the design and creation of Integration-Applications in Java. His main focus is on Java EE and web technologies for complex integration challenges.
+[Martin Huber](https://twitter.com/Waterback) is a senior consultant at INNOQ. More than a decade of his professional life is filled with the design and creation of integration applications in Java. His main focus is on Java EE and web technologies for complex integration challenges.
+
+<span style="clear:both"/>
 
 Design by [Sonja Scheungrab](https://twitter.com/multebaerr).
 
