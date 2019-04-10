@@ -286,6 +286,10 @@ Videos and Podcasts
 - [Leaping back into the code via Remote Mobbing by Sal Freudenberg](https://www.pscp.tv/w/1kvKpEEklQQGE?t=24s)
 - [Episode 'Mob' in Agile in 3 Minutes by Amitai Schleier](https://agilein3minut.es/32/)
 
+## Press
+
+- [Interview on the appear.in blog](https://blog.appear.in/blog/2019-1)
+
 ## Authors
 
 <img src="images/simon-avatar.png" alt="Simon" width="80" style="float:left; padding: 12px">
