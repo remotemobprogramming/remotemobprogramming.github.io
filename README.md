@@ -266,12 +266,14 @@ Software we use
 - [appear.in](https://appear.in) for screensharing
 - [mob](https://github.com/remotemobprogramming/mob) for quick git handover (developed by us) 
 - [timer (OS X only)](https://github.com/michaelvillar/timer-app) for tracking mob intervals
+- [Miro](https://miro.com) for collaborative whiteboard
 
 Hardware we use
 
 - [Ubiquiti AmpliFi](https://store.amplifi.com/products/amplifi-mesh-system) for great wifi
 - [Blue Yeti Microphone](https://www.bluedesigns.com/products/yeti/) for great audio
 - [Logitech C920 HD Pro Webcam](https://www.logitech.com/de-de/product/hd-pro-webcam-c920) for 1080p video
+- [iPad Pro](https://www.apple.com/ipad-pro/) with [Pencil 2](https://www.apple.com/apple-pencil/) for great collaborative whiteboard
 
 Books
 
@@ -289,6 +291,38 @@ Videos and Podcasts
 ## Press
 
 - [Interview on the appear.in blog](https://blog.appear.in/blog/2019-1)
+
+## FAQ
+
+##### What's in it for me? (asks the manager / product owner)
+
+Time to market is optimized. With Mob Programming, you minimize wait times and delays. 
+
+In addition, with Remote Mob Programming, you get access to a large pool of remote developers who spend less on travel. But in the end, we assume it's time to market that makes the difference.
+
+##### Is Remote Mob Programming something for every team?
+
+We don't know. 
+
+Remote Mob Programming is intense collaboration. This can be great, or it will quickly reveal any team dysfunctions. 
+
+We think it's definitely worth a try. 
+
+##### Isn’t one of the main benefits of remote working that you can work the way you want, and not be under constant supervision of others?
+
+Outstanding question. Working at your own pace is really an advantage of remote work. But after having tried Remote Mob Programming for several weeks and getting a glimpse of its advantages, we are okay to give that up. 
+
+##### Is it really efficient when everybody works at the same issue at the same time?
+
+Definitely yes, if you want to optimize for time to market and knowledge.
+
+##### The thought of on always-on camera makes me feel a bit uncomfortable. Do you get used to it? Is it even necessary?
+
+At first, we felt uncomfortable as well. But yes, you get used to it. And it is necessary because it significantly improves communication. It really does.
+
+##### My team would like to try out Remote Mob Programming. How should we start?
+
+That's great. We recommend to select a medium-sized feature and try it out with your standard laptop camera and microphone. One member should read the book [Code with the Wisdom of the Crowd by Mark Pearl](https://pragprog.com/book/mpmob/code-with-the-wisdom-of-the-crowd) to be able to act as a moderator if necessary. Regarding everything else, discover what is working for you.
 
 ## Authors
 
