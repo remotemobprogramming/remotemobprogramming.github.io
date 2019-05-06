@@ -291,6 +291,7 @@ Videos and Podcasts
 ## Press
 
 - [Interview on the appear.in blog](https://blog.appear.in/blog/2019-1)
+- [Interview on the INNOQ podcast (German)](https://www.innoq.com/de/podcast/061-remote-mob-programming/)
 
 ## FAQ
 
