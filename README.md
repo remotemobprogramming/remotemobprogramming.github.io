@@ -123,7 +123,7 @@ Looking at and working on the same issue forces us to focus.
 It is highly efficient to work with actual code in contrast to having abstract meta discussions. 
 
 We tried collaboration IDEs.
-Surprisingly, this lead to worse collaboration.
+Surprisingly, this led to worse collaboration.
 Impatient members of the rest of the mob circumvented both, the discussion and the typist, by just hacking their ideas.    
 While the typist shares the screen, the rest of the mob has no shortcuts.
 Only the typist types, the rest of the mob must explain what to do through language.
@@ -186,7 +186,7 @@ Working alone, you often end up looking up things on Google, in a documentation,
 The main purpose of the rest of the mob is to make sure there is constant momentum.
 They discuss the problem and think ahead towards the solution, getting rid of any obstacles.
 
-_We get into a rewarding flow everyday._
+_We get into a rewarding flow every day._
 
 As we aren't blocked by ourselves, we make good progress.
 It feels great.
@@ -323,7 +323,7 @@ At first, we felt uncomfortable as well. But yes, you get used to it. And it is 
 
 #### My team would like to try out Remote Mob Programming. How should we start?
 
-That's great. We recommend to select a medium-sized feature and try it out with your standard laptop camera and microphone. One member should read the book [Code with the Wisdom of the Crowd by Mark Pearl](https://pragprog.com/book/mpmob/code-with-the-wisdom-of-the-crowd) to be able to act as a moderator if necessary. Regarding everything else, discover what is working for you.
+That's great. We recommend selecting a medium-sized feature and try it out with your standard laptop camera and microphone. One member should read the book [Code with the Wisdom of the Crowd by Mark Pearl](https://pragprog.com/book/mpmob/code-with-the-wisdom-of-the-crowd) to be able to act as a moderator if necessary. Regarding everything else, discover what is working for you.
 
 ## Authors
 
