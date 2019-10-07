@@ -1,3 +1,5 @@
+# Remote Mob Programming
+
 ![Remote Mob Programming Screenshot](images/remotemob_header_screen_grau.png)
 
 Remote Mob Programming combines two ways of working: Mob Programming and working as a distributed team.
