@@ -265,14 +265,14 @@ Methods we use
 
 Software we use
 
-- [appear.in](https://appear.in) for screensharing
+- [whereby](https://whereby.com) for screensharing
 - [mob](https://github.com/remotemobprogramming/mob) for quick git handover (developed by us) 
 - [timer (OS X only)](https://github.com/michaelvillar/timer-app) for tracking mob intervals
 - [Miro](https://miro.com) for collaborative whiteboard
 
 Hardware we use
 
-- [Ubiquiti AmpliFi](https://store.amplifi.com/products/amplifi-mesh-system) for great wifi
+- [Ubiquiti AmpliFi](https://www.amplifi.com/amplifi-hd) for great wifi
 - [Blue Yeti Microphone](https://www.bluedesigns.com/products/yeti/) for great audio
 - [Logitech C920 HD Pro Webcam](https://www.logitech.com/de-de/product/hd-pro-webcam-c920) for 1080p video
 - [iPad Pro](https://www.apple.com/ipad-pro/) with [Pencil 2](https://www.apple.com/apple-pencil/) for great collaborative whiteboard
