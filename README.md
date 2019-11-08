@@ -170,7 +170,7 @@ Reversing decisions is often expensive.
 [Group decisions are superior over individual decisions](https://en.wikipedia.org/wiki/Group_decision-making).
 In Remote Mob Programming, all decisions are group decisions.
 
-_We are happy with our decisions._
+_We minimize technical debt._
 
 With our wealth of know-how, experience, and opinions to discuss, we are able to make well-founded decisions everyone agrees with.
 When we are coding, we all agree on changes and code style. 
