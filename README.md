@@ -12,25 +12,28 @@ But Remote Mob Programming is more than that.
 >
 > &mdash; <cite>[Simon Harrer](https://twitter.com/simonharrer), [Jochen Christ](https://twitter.com/jochen_christ), and [Martin Huber](https://twitter.com/Waterback)</cite>
 
-Below, we summarize the essentials of successful Remote Mob Programming as we understand them. 
+[![Book on Remote Mob Programming](images/cover.jpg){:height="50px" width="50px"}](leanpub.com/remotemobprogramming)
+Check out our [free eBook on Remote Mob Programming  at leanpub](https://leanpub.com/remotemobprogramming).
 
 ## Here's how we do Remote Mob Programming
 
-1. [Remote Everybody](#remote-everybody)
-1. [Camera Always On](#camera-always-on)
-1. [Regular On-Site Meetings](#regular-on-site-meetings)
-1. [Small Team](#small-team)
-1. [Same Time](#same-time)
-1. [Typist and the Rest of the Mob](#typist-and-the-rest-of-the-mob)
-1. [Screen Sharing](#screen-sharing)
-1. [10 Minute Intervals](#10-minute-intervals)
-1. [Git Handover](#git-handover)
-1. [Group Decisions](#group-decisions)
-1. [Constant Momentum](#constant-momentum)
-1. [Learn from the Team](#learn-from-the-team)
-1. [Trust](#trust)
-1. [Save the Planet](#save-the-planet)
-1. [Dine with your Family](#dine-with-your-family)
+Below, we summarize the essentials of successful Remote Mob Programming as we understand them. 
+
+- [Remote Everybody](#remote-everybody)
+- [Camera Always On](#camera-always-on)
+- [Regular On-Site Meetings](#regular-on-site-meetings)
+- [Small Team](#small-team)
+- [Same Time](#same-time)
+- [Typist and the Rest of the Mob](#typist-and-the-rest-of-the-mob)
+- [Screen Sharing](#screen-sharing)
+- [10 Minute Intervals](#10-minute-intervals)
+- [Git Handover](#git-handover)
+- [Group Decisions](#group-decisions)
+- [Constant Momentum](#constant-momentum)
+- [Learn from the Team](#learn-from-the-team)
+- [Trust](#trust)
+- [Save the Planet](#save-the-planet)
+- [Dine with your Family](#dine-with-your-family)
 
 
 ### ![Remote Everybody](icons/remote-everybody.png){:height="36px" width="36px"}&nbsp;&nbsp;Remote Everybody 
