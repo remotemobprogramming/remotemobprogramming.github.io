@@ -12,7 +12,7 @@ But Remote Mob Programming is more than that.
 >
 > &mdash; <cite>[Simon Harrer](https://twitter.com/simonharrer), [Jochen Christ](https://twitter.com/jochen_christ), and [Martin Huber](https://twitter.com/Waterback)</cite>
 
-[![Book on Remote Mob Programming](images/cover.jpg){:height="50px" width="50px"}](leanpub.com/remotemobprogramming)
+[![Book on Remote Mob Programming](images/cover.jpg){:height="200px"}](leanpub.com/remotemobprogramming)
 Check out our [free eBook on Remote Mob Programming  at leanpub](https://leanpub.com/remotemobprogramming).
 
 ## Here's how we do Remote Mob Programming
