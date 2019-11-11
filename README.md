@@ -14,7 +14,7 @@ But Remote Mob Programming is more than that.
 
 ---
 
-[![Book on Remote Mob Programming](images/cover.jpg){:height="300px"}](leanpub.com/remotemobprogramming)
+[![Book on Remote Mob Programming](images/cover.jpg){:height="300px"}](https://leanpub.com/remotemobprogramming)
 
 Check out our [free eBook on Remote Mob Programming  at leanpub](https://leanpub.com/remotemobprogramming).
 
