@@ -297,6 +297,7 @@ Videos and Podcasts
 - [Mob Programming: A Whole Team Approach by Woody Zuill](https://www.youtube.com/watch?v=SHOVVnRB4h0)
 - [Leaping back into the code via Remote Mobbing by Sal Freudenberg](https://www.pscp.tv/w/1kvKpEEklQQGE?t=24s)
 - [Episode 'Mob' in Agile in 3 Minutes by Amitai Schleier](https://agilein3minut.es/32/)
+- [JCon 2019: Remote Mob Programming by Jochen (German)](https://www.youtube.com/watch?v=-CkxwtXRKp8)
 
 ## Press
 
