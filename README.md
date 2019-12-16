@@ -298,6 +298,7 @@ Videos and Podcasts
 - [Leaping back into the code via Remote Mobbing by Sal Freudenberg](https://www.pscp.tv/w/1kvKpEEklQQGE?t=24s)
 - [Episode 'Mob' in Agile in 3 Minutes by Amitai Schleier](https://agilein3minut.es/32/)
 - [JCon 2019: Remote Mob Programming by Jochen (German)](https://www.youtube.com/watch?v=-CkxwtXRKp8)
+- [Interview of Simon Harrer by Marc Löffler on the Passionate Teams Podcast (German)](https://marcloeffler.eu/2019/12/15/was-ist-eigentlich-mob-programming-ein-interview-mit-dr-simon-harrer/)
 
 ## Press
 
