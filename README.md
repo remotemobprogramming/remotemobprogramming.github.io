@@ -302,6 +302,7 @@ Videos and Podcasts
 
 ## Press
 
+- [heise.de article (German)](https://www.heise.de/hintergrund/Erfolgreich-im-Homeoffice-arbeiten-4681061.html)
 - [Interview on the INNOQ podcast (German)](https://www.innoq.com/de/podcast/061-remote-mob-programming/)
 - [Interview on the Mob Mentality show](https://www.youtube.com/watch?v=xGOuq9RHi_I)
 - [Interview on the whereby.com blog](https://medium.com/the-making-of-whereby/1-what-does-innoq-do-and-why-does-a-remote-development-team-make-sense-for-you-715f987823d6)
