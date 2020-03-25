@@ -163,7 +163,7 @@ This is a challenge for a distributed team.
 _We hand over with WIP commits on a temporary git branch._
 
 To have a clean master branch, we work on a temporary _mob-session_ branch.
-After each interval, we push a work in progress (WIP) commit to this branch.   
+After each interval, we push a work in progress (WIP) commit to this branch.
 In this branch, we don't care about the commit message, if the code compiles, or if the tests are green.
 
 A quick handover is essential.
