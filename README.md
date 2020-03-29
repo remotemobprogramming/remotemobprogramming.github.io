@@ -265,6 +265,8 @@ With Remote Mob Programming we get both, rewarding work and quality time with ou
 
 ## Resources
 
+_New: We created the website [effectivehomeoffice.com](https://effectivehomeoffice.com/) listing our equipment._
+
 Methods we use
 
 - [Daily check-ins](#trust) to actively communicate our experiences to other teams and managers.
@@ -273,7 +275,7 @@ Methods we use
 
 Software we use
 
-- [whereby](https://whereby.com) for screensharing
+- [zoom](https://zoom.us/) for screensharing
 - [mob](https://github.com/remotemobprogramming/mob) for quick git handover (developed by us) 
 - [timer (OS X only)](https://github.com/michaelvillar/timer-app) for tracking mob intervals
 - [Miro](https://miro.com) for collaborative whiteboard
