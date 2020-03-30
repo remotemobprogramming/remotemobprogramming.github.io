@@ -1,5 +1,7 @@
 # Remote Mob Programming
 
+**New: We created the website [effectivehomeoffice.com](https://effectivehomeoffice.com/) listing our equipment.**
+
 ![Remote Mob Programming Screenshot](images/remotemob_header_screen_grau.png)
 
 Remote Mob Programming combines two ways of working: Mob Programming and working as a distributed team.
