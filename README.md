@@ -171,7 +171,7 @@ In this branch, we don't care about the commit message, if the code compiles, or
 A quick handover is essential.
 At the end of the mob session, we [squash](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History) the WIP commits into expressive commits and merge into master.
 
-We created a small tool [mob](https://github.com/remotemobprogramming/mob) to simplify this process.
+We created the [mob](https://mob.sh) tool to simplify this process.
 
 ### ![Group Decisions](icons/group-decisions.png){:height="36px" width="36px"}&nbsp;&nbsp;Group Decisions
 
