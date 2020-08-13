@@ -364,3 +364,5 @@ Supported by [<img src="images/innoq-logo--bluered.svg" alt="INNOQ" width="60">]
 
 <script data-mode="hash" async defer src="https://cdn.simpleanalytics.io/hello.js"></script> 
 <noscript><img src="https://api.simpleanalytics.io/hello.gif" alt=""></noscript>
+
+<script async defer data-domain="remotemobprogramming.org" src="https://stats.innoq.com/js/index.js"></script>
