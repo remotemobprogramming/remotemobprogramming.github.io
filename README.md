@@ -1,6 +1,6 @@
 # Remote Mob Programming
 
-**New: We created the website [effectivehomeoffice.com](https://effectivehomeoffice.com/) listing our equipment.**
+**New: Since COVID-19 many work from home. The typical team events are postponed or canceled. With ['The Remote Mob Programming Experience'](https://www.innoq.com/en/topics/remote-mob-programming-experience/) we offer a unique form of team event which works working from home and makes a lot of fun!**
 
 ![Remote Mob Programming Screenshot](images/remotemob_header_screen_grau.png)
 
