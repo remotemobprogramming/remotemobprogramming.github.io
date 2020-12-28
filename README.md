@@ -22,6 +22,10 @@ Check out our [free eBook on Remote Mob Programming  at leanpub](https://leanpub
 
 ---
 
+[![Remote Mob Programming](http://img.youtube.com/vi/nr9QA753L5Y/0.jpg)](http://www.youtube.com/watch?v=nr9QA753L5Y "Remote Mob Programming")
+
+---
+
 ## Here's how we do Remote Mob Programming
 
 Below, we summarize the essentials of successful Remote Mob Programming as we understand them. 
