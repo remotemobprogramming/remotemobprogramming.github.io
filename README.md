@@ -2,6 +2,11 @@
 
 **New: Since COVID-19 many work from home. The typical team events are postponed or canceled. With ['The Remote Mob Programming Experience'](https://www.innoq.com/en/topics/remote-mob-programming-experience/) we offer a unique form of team event which works working from home and makes a lot of fun!**
 
+**New: [Video showing how we do Remote Mob Programming](http://www.youtube.com/watch?v=nr9QA753L5Y), including an experience report from our very happy product owner!**
+[![Remote Mob Programming](http://img.youtube.com/vi/nr9QA753L5Y/0.jpg)](http://www.youtube.com/watch?v=nr9QA753L5Y "Remote Mob Programming")
+
+---
+
 ![Remote Mob Programming Screenshot](images/remotemob_header_screen_grau.png)
 
 Remote Mob Programming combines two ways of working: Mob Programming and working as a distributed team.
@@ -22,9 +27,6 @@ Check out our [free eBook on Remote Mob Programming  at leanpub](https://leanpub
 
 ---
 
-[![Remote Mob Programming](http://img.youtube.com/vi/nr9QA753L5Y/0.jpg)](http://www.youtube.com/watch?v=nr9QA753L5Y "Remote Mob Programming")
-
----
 
 ## Here's how we do Remote Mob Programming
 
