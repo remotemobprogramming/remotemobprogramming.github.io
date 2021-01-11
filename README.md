@@ -2,9 +2,6 @@
 
 **New: Since COVID-19 many work from home. The typical team events are postponed or canceled. With ['The Remote Mob Programming Experience'](https://www.innoq.com/en/topics/remote-mob-programming-experience/) we offer a unique form of team event which works working from home and makes a lot of fun!**
 
-**New: [Video showing how we do Remote Mob Programming](http://www.youtube.com/watch?v=nr9QA753L5Y), including an experience report from our very happy product owner!**
-[![Remote Mob Programming](http://img.youtube.com/vi/nr9QA753L5Y/0.jpg)](http://www.youtube.com/watch?v=nr9QA753L5Y "Remote Mob Programming")
-
 ---
 
 ![Remote Mob Programming Screenshot](images/remotemob_header_screen_grau.png)
@@ -304,6 +301,7 @@ Books
 
 Videos and Podcasts
 
+- [Remote Mob Programming (EN) – INNOQ Technology Day](http://www.youtube.com/watch?v=nr9QA753L5Y)
 - [Mob Programming: A Whole Team Approach by Woody Zuill](https://www.youtube.com/watch?v=SHOVVnRB4h0)
 - [Leaping back into the code via Remote Mobbing by Sal Freudenberg](https://www.pscp.tv/w/1kvKpEEklQQGE?t=24s)
 - [Episode 'Mob' in Agile in 3 Minutes by Amitai Schleier](https://agilein3minut.es/32/)
