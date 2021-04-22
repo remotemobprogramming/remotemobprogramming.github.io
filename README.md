@@ -1,6 +1,6 @@
 # Remote Mob Programming
 
-**New: Since COVID-19 many work from home. The typical team events are postponed or canceled. With ['The Remote Mob Programming Experience'](https://www.innoq.com/en/topics/remote-mob-programming-experience/) we offer a unique form of team event which works working from home and makes a lot of fun!**
+**New: Since COVID-19 many work from home. The typical team events are postponed or canceled. With ['The Remote Mob Programming Experience'](https://www.innoq.com/en/topics/remote-mob-programming-experience/) we offer a unique form of team event which makes working from home a lot of fun!**
 
 ---
 
