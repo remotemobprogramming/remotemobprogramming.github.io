@@ -299,9 +299,12 @@ Books
 - [Mob Programming Guidebook by Maaret Pyhäjärvi](https://leanpub.com/mobprogrammingguidebook)
 - [Debugging Teams by Brian Fitzpatrick and Ben Collins-Sussman](http://shop.oreilly.com/product/0636920042372.do)
 
-Videos, Podcasts, Articles
+Articles
 
-- [Remote Mob Programming at Spotify](https://shopify.engineering/mob-programming)
+- [Remote Mob Programming at Shopify](https://shopify.engineering/mob-programming)
+
+Videos and Podcasts
+
 - [Remote Mob Programming (EN) – INNOQ Technology Day](http://www.youtube.com/watch?v=nr9QA753L5Y)
 - [Mob Programming: A Whole Team Approach by Woody Zuill](https://www.youtube.com/watch?v=SHOVVnRB4h0)
 - [Leaping back into the code via Remote Mobbing by Sal Freudenberg](https://www.pscp.tv/w/1kvKpEEklQQGE?t=24s)
