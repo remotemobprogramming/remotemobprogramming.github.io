@@ -59,6 +59,10 @@ Avoid relative location like "move a little bit more up; no, that was too far, g
 It's not what you say, but how you say it.
 So say "Can you go to line 45, please?".
 
+### Be patient.
+Be patient when giving the typist commands.
+*You* are responsible that the typist feels comfortable.
+
 ### Be equal.
 Make sure that you don't dominate the *rest of the team*.
 If you realize you're talking too much, you might be leading by giving command over command. 
