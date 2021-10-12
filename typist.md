@@ -38,6 +38,11 @@ If you get contradicting commands, pause, and tell the *rest of the team* what y
 Don't select one command over another on your own.
 Don't selectively ignore commands.
 
+### Be attentive.
+Listen closely what the *rest of the team* discuss.
+Be ready to support them anytime.
+Don't distract yourself with email, twitter or instagram.
+
 ## How to act in the rest of the team
 
 ### Be intentional.
