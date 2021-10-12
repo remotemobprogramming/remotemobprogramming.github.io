@@ -1,5 +1,6 @@
 ## How to act as a typist
 
+The rest of the team develop software, using the typist as a smart voice-controlled input device.
 The typist shares the screen everybody is looking at.
 This means the typist has power. 
 [But with great power comes great responsibility.](https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility)

@@ -1,9 +1,10 @@
 ## How to act in the rest of the team
 
+The rest of the team develop software, using the typist as a smart voice-controlled input device.
 
 ### Be intentional.
 Communicate the intent.
-Be clear about the why to the typist.
+Be clear about the why with each other so you can be clear about the why to the typist.
 A smart typist with system knowledge might already start implementing just with the why.
 
 ### Be concise of location.
@@ -32,4 +33,8 @@ Asking questions will automatically reduce your talking time and opens space for
 
 ### Be emphatic.
 Make sure everybody in video call is okay.
+
+### Be unambiquous.
+
+
 
