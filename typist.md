@@ -1,7 +1,7 @@
 ## How to act as a typist
 
-The typist shares the screen.
-But with great power comes great responsibility.
+The typist shares the screen everybody is looking at.
+[But with great power comes great responsibility.](https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility)
 Here's how to be a responsible typist.
 
 ### Be reactive.
