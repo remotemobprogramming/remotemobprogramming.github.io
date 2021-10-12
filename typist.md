@@ -10,8 +10,9 @@ If you don't get any commands, do nothing - just listen.
 Move your hands away from mouse and keyboard. 
 Meditate to the blinking of your cursor. 
 Cherish this moment. 
-Fight the urge to "help" the *rest of the team* by joining in the discussion, or even worse, doing stuff proactively.
-If you really want to join the discussion, trigger a handover to the next typist.
+Fight the urge to talk to the *rest of the team* by joining in the discussion.
+If it helps, just mute yourself.
+But if you really want to join the discussion, trigger a handover to the next typist.
 
 ### Be patient.
 You might become impatient when there are no (clear) commands.
@@ -57,5 +58,12 @@ Avoid relative location like "move a little bit more up; no, that was too far, g
 ### Be polite.
 It's not what you say, but how you say it.
 So say "Can you go to line 45, please?".
+
+### Be equal.
+Make sure that you don't dominate the *rest of the team*.
+If you realize you're talking too much, you might be leading by giving command over command. 
+Think about switching to *lead with questions* instead.
+Asking questions will automatically reduce your talking time and opens space for others to join in and share their solution approaches.
+
 
 
