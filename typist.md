@@ -1,5 +1,9 @@
 ## How to act as a typist
 
+The typist shares the screen.
+But with great power comes great responsibility.
+Here's how to be a responsible typist.
+
 ### Be reactive.
 If you don't get any commands, do nothing - just listen. 
 Move your hands away from mouse and keyboard. 
