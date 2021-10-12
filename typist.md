@@ -5,6 +5,7 @@ If you don't get any commands, do nothing - just listen.
 Move your hands away from mouse and keyboard. 
 Meditate to the blinking of your cursor. 
 Cherish this moment. 
+You can ask them: "what should I do next?" but it's probably better not simply wait instead.
 Fight the urge to "help" them by joining in the discussion, or even worse, doing stuff proactively.
 If you really want to join the discussion, trigger a handover to the next typist.
 
@@ -21,7 +22,7 @@ Tell them to give you space and freedom to act and breath.
 
 ### Be private.
 Disable any notifications.
-The test of the team doesn't want to get a sneak preview of your instant messages or emails.
+The rest of the team doesn't want to get a sneak preview of your instant messages or emails.
 
 ## How to be a Great Person in the Rest of the Team / Navigator
 
