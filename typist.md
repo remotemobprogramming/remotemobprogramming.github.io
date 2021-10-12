@@ -5,9 +5,13 @@ If you don't get any commands, do nothing - just listen.
 Move your hands away from mouse and keyboard. 
 Meditate to the blinking of your cursor. 
 Cherish this moment. 
-You can ask them: "what should I do next?" but it's probably better not simply wait instead.
 Fight the urge to "help" them by joining in the discussion, or even worse, doing stuff proactively.
 If you really want to join the discussion, trigger a handover to the next typist.
+
+### Be patient.
+You might become impatient when there are no (clear) commands.
+You can ask "what should I do next?" in those cases, but it's probably better to simply wait doing nothing instead.
+You will get commands at some point afterall.
 
 ### Be slow.
 Slow down, so everybody in the rest of the team can follow what you are doing. 
