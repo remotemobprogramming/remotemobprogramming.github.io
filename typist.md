@@ -75,5 +75,6 @@ If you realize you're talking too much, you might be leading by giving command o
 Think about switching to *lead with questions* instead.
 Asking questions will automatically reduce your talking time and opens space for others to join in and share their solution approaches.
 
-
+### Be kind.
+Don't be evil.
 
