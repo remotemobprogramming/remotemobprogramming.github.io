@@ -63,6 +63,11 @@ So say "Can you go to line 45, please?".
 Be patient when giving the typist commands.
 *You* are responsible that the typist feels comfortable.
 
+### Be unobtrusive.
+Accept the freedom of the typist.
+Before giving advice, make sure the typist is open for it.
+A typical example is when the typist is doing a refactoring manually and you know how to do this with IDE functions only.
+
 ### Be equal.
 Make sure that you don't dominate the *rest of the team*.
 If you realize you're talking too much, you might be leading by giving command over command. 
