@@ -35,3 +35,5 @@ So say "Can you go to line 45, please?".
 
 ### Be intentional.
 Communicate the intent.
+Be clear about the why to the typist.
+A smart typist with system knowledge might already start implementing just with the why.
