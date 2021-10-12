@@ -10,9 +10,10 @@ If you don't get any commands, do nothing - just listen.
 Move your hands away from mouse and keyboard. 
 Meditate to the blinking of your cursor. 
 Cherish this moment. 
-Fight the urge to talk to the *rest of the team* by joining in the discussion.
+Fight the urge to join the discussion of the *rest of the team*.
 If it helps, just mute yourself.
-But if you really want to join the discussion, trigger a handover to the next typist.
+You know it will we over in a few minutes.
+But if you loose that fight, trigger a handover to the next typist.
 
 ### Be patient.
 You might become impatient when there are no (clear) commands.
@@ -23,11 +24,13 @@ You will get commands at some point afterall.
 Slow down, so everybody in the *rest of the team* can follow what you are doing. 
 This includes moving your mouse cursor, changing windows, switching tabs, or pressing keyboard shortcuts.
 Make it easy to follow what and how you are doing things.
+So with you going slowly, the whole team can go fast.
 
 ### Be calm.
-Stay calm even when you feel pressure from the *rest of your team* for being too slow.
-Tell them to slow down with their commands.
+Although the *rest of your team* should be patient with you, it sometimes happens that you might feel pressured from the *rest of your team* for following their commands too slow.
+Just stay calm and tell them to slow down with their commands.
 Tell them to give you space and freedom to act and breath.
+It's okay to stand your ground, even necessary.
 
 ### Be private.
 Disable any notifications.
