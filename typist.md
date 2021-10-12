@@ -1,4 +1,4 @@
-## How to be a Great Typist
+## How to be a Great Typist / Driver
 
 ### Be reactive.
 If you don't get any commands, do nothing - just listen. 
@@ -19,3 +19,12 @@ Stay calm even in then.
 Tell them to slow down with their commands.
 Tell them to give you space and freedom to act and breath.
 
+## How to be a Great Person in the Rest of the Team / Navigator
+
+### Be concise of location.
+Communicate location using absolutes like file names, class names, or line numbers.
+Avoid relative location like "move a little bit more up; no, that was too far, go down a little bit more, ...".
+
+### Be polite.
+It's not what you say, but how you say it.
+So say "please", and "can you".
