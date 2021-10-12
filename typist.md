@@ -35,9 +35,10 @@ Disable any notifications.
 The *rest of the team* doesn't want to get a sneak preview of your instant messages or emails.
 
 ### Be confident.
-If you get contradicting commands, pause, and tell the *rest of the team* what you should do.
+If you get contradicting commands, pause.
 Don't select one command over another on your own.
 Don't selectively ignore commands.
+Just ask the *rest of the team* what you should do.
 
 ### Be attentive.
 Listen closely what the *rest of the team* discuss.
