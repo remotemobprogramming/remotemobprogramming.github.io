@@ -17,7 +17,7 @@ You know it will we over in a few minutes.
 But if you loose that fight, trigger a handover to the next typist.
 
 ### Be patient.
-You might become impatient when there are no (clear) commands.
+You might become impatient when there are no commands.
 You can ask "what should I do next?" in those cases, but it's probably better to simply wait doing nothing instead.
 You will get commands at some point afterall.
 
@@ -42,6 +42,11 @@ If you get contradicting commands, pause.
 Don't select one command over another on your own.
 Don't selectively ignore commands.
 Just ask the *rest of the team* what you should do.
+
+### Be transparent.
+Be transparent of what you know so the *rest of the team* can guide you on your level of domain, technical, and system knowledge.
+If you get a command you don't understand, make this immediately clear to the *rest of the team* so they can readjust their commands.
+This is important for if you're new to the craft or the team.
 
 ### Be attentive.
 Listen closely what the *rest of the team* discuss.
