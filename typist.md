@@ -52,3 +52,9 @@ Rotation is key to the success of working together.
 Make sure to hand over to the next typist on time.
 Don't go for the famous last words of "let me finish this real quick".
 
+### Be prepared.
+Try to be prepared so when your time as a typist comes, you can immediately implement the commands from the *rest of the team*.
+So start up your IDE, checkout the project you're currently working on, let your build system download the internet, and your IDE create those annoying but really helpful indexes.
+Also, configure your IDE: enable line numbers, increase font size, and activate auto-save (looking at you, VS Code).
+
+
