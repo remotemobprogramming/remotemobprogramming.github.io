@@ -1,14 +1,15 @@
-## How to act in the rest of the team
+## How to act towards the typist
 
 The rest of the team develop software, using the typist as a smart voice-controlled input device.
+This is how to communicate and act towards the typist.
 
 ### Be intentional.
 Communicate the intent.
-Be clear about the why with each other so you can be clear about the why to the typist.
+Be clear about the why to the typist.
 A smart typist with system knowledge might already start implementing just with the why.
 
-### Be concise of location.
-Communicate location using absolutes like file names, class names, or line numbers.
+### Be accurate.
+Communicate location accurately using absolutes like file names, class names, or line numbers.
 Avoid relative location like "move a little bit more up; no, that was too far, go down a little bit more, ...".
 
 ### Be polite.
@@ -25,6 +26,14 @@ Before giving advice, make sure the typist is open for it.
 A typical example is when the typist is doing a refactoring manually and you know how to do this with IDE functions only.
 Tell the typist you have a suggestion on doing this differently, and ask them if they would like to know it - but be prepared to accept a no as an answer.
 
+### Be united.
+Speak with one voice.
+Don't send conflicting commands.
+Normally, a temporary spokesperson emerges naturally.
+If this doesn't work, you can agree upon a temporary spokesperson - and they might even rotate alongside the typist.
+
+## How to act in the rest of the team
+
 ### Be inclusive.
 Make sure that you don't dominate the *rest of the team*.
 If you realize you're talking too much, you might be leading by giving command over command. 
@@ -33,8 +42,6 @@ Asking questions will automatically reduce your talking time and opens space for
 
 ### Be emphatic.
 Make sure everybody in video call is okay.
-
-### Be unambiquous.
 
 
 
