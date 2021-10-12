@@ -19,6 +19,10 @@ Stay calm even in then.
 Tell them to slow down with their commands.
 Tell them to give you space and freedom to act and breath.
 
+### Be private.
+Disable any notifications.
+The test of the team doesn't want to get a sneak preview of your instant messages or emails.
+
 ## How to be a Great Person in the Rest of the Team / Navigator
 
 ### Be concise of location.
@@ -27,4 +31,7 @@ Avoid relative location like "move a little bit more up; no, that was too far, g
 
 ### Be polite.
 It's not what you say, but how you say it.
-So say "please", and "can you".
+So say "Can you go to line 45, please?".
+
+### Be intentional.
+Communicate the intent.
