@@ -39,6 +39,11 @@ It's okay to stand your ground, even necessary.
 Disable any notifications.
 The *rest of the team* doesn't want to get a sneak preview of your instant messages or emails.
 
+### Be curious.
+You got your command and know what to do.
+But you've seen someone else using a specific keyboard shortcut or a nice refactoring action from your IDE.
+Feel free to ask the *rest of the team* to teach you that shortcut or refactoring action.
+
 ### Be confident.
 If you get contradicting commands, pause.
 Don't select one command over another on your own.
