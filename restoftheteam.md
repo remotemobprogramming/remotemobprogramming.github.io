@@ -1,4 +1,4 @@
-## How to act towards the typist
+## *DRAFT* How to act towards the typist
 
 The rest of the team develop software, using the typist as a smart voice-controlled input device.
 This is how to communicate and act towards the typist.
@@ -32,7 +32,7 @@ Don't send conflicting commands.
 Normally, a temporary spokesperson emerges naturally.
 If this doesn't work, you can agree upon a temporary spokesperson - and they might even rotate alongside the typist.
 
-## How to act in the rest of the team
+## *DRAFT* How to act in the rest of the team
 
 ### Be inclusive.
 Make sure that you don't dominate the *rest of the team*.
