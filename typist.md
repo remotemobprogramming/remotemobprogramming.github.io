@@ -64,5 +64,7 @@ Just let it go.
 Try to be prepared so when your time as a typist comes, you can immediately implement the commands from the *rest of the team*.
 So start up your IDE, checkout the project you're currently working on, let your build system download the internet, and your IDE create those annoying but really helpful indexes.
 Also, configure your IDE: enable line numbers, increase font size, and activate auto-save (looking at you, VS Code).
+Being prepared gives you extra points, and if you're not, the *rest of the team* is more than happy to help you getting set up together.
+
 
 
