@@ -52,6 +52,8 @@ This is important if you're new to the craft or the team.
 Listen closely what the *rest of the team* discuss.
 Be ready to support them anytime.
 Don't distract yourself with email, Twitter or Slack.
+In some cases, you might even act as a part-time facilitator and help them with questions like: "Do we know what is our current task or next step is?".
+But don't overuse this!
 
 ### Be giving.
 Rotation is key to the success of working together.
