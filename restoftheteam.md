@@ -45,5 +45,6 @@ Asking questions will automatically reduce your talking time and opens space for
 ### Be emphatic.
 Make sure everybody in video call is okay.
 
-
-
+## Just Sharing
+We're [just sharing what works for us](https://justsharing.dev/). 
+It might help you as well.
