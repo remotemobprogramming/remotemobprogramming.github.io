@@ -1,6 +1,6 @@
 ## *DRAFT* How to act towards the typist
 
-The rest of the team develop software, using the typist as a smart voice-controlled input device.
+The rest of the team develop software, using the [typist](typist) as a smart voice-controlled input device.
 This is how to communicate and act towards the typist.
 
 ### Be intentional.

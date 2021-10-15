@@ -1,6 +1,6 @@
 # Remote Mob Programming
 
-**New: [How to act as a typist](/typist)**
+**New: [How to act as a typist](typist)**
 
 ---
 
