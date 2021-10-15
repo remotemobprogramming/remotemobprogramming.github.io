@@ -1,3 +1,5 @@
+Disclaimer: This page is work in progress.
+
 ## How to act towards the typist
 
 The rest of the team develop software, using the typist as a smart voice-controlled input device.
@@ -19,12 +21,14 @@ So say "Can you go to line 45, please?".
 ### Be patient.
 Be patient when giving the typist commands.
 *You* are responsible that the typist feels comfortable.
+Give the typist time to think and fix their own mistakes like missing semi colons, too many parentheses, or simple typos.
 
 ### Be unobtrusive.
 Accept the freedom of the typist.
 Before giving advice, make sure the typist is open for it.
 A typical example is when the typist is doing a refactoring manually and you know how to do this with IDE functions only.
 Tell the typist you have a suggestion on doing this differently, and ask them if they would like to know it - but be prepared to accept a no as an answer.
+The best case would be that you never give advice unsolicited, but the typist has an inkling that IDE refactorings might help here and asks you to guide them.
 
 ### Be united.
 Speak with one voice.

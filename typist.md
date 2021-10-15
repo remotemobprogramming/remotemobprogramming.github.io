@@ -1,6 +1,6 @@
 ## How to act as a typist
 
-The rest of the team develop software, using the typist (a.k.a. the driver) as a smart voice-controlled input device.
+The [rest of the team](restofthemteam) develop software, using the typist (a.k.a. the driver) as a smart voice-controlled input device.
 The job of the typist is to translate intentions (a.k.a. directions) into computer-based solutions.
 This is a skill that requires a lot of practice.
 The typist shares the screen everybody is looking at.
