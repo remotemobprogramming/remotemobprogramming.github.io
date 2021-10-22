@@ -365,12 +365,3 @@ That's great. We recommend selecting a medium-sized feature and try it out with 
 <div style="clear:both"/>
 
 Design by [Sonja Scheungrab](https://twitter.com/multebaerr).
-
-[Legal Notice](https://www.innoq.com/en/impressum/) [Privacy](https://www.innoq.com/en/datenschutz-20180524/)
-
-Supported by [<img src="images/innoq-logo--bluered.svg" alt="INNOQ" width="60">](https://www.innoq.com/en/)
-
-<script data-mode="hash" async defer src="https://cdn.simpleanalytics.io/hello.js"></script> 
-<noscript><img src="https://api.simpleanalytics.io/hello.gif" alt=""></noscript>
-
-<script async defer data-domain="remotemobprogramming.org" src="https://stats.innoq.com/js/index.js"></script>
