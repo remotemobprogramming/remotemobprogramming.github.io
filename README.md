@@ -356,7 +356,7 @@ That's great. We recommend selecting a medium-sized feature and try it out with 
 ## Authors
 
 <img src="images/simon-avatar.png" alt="Simon" width="80" style="float:left; padding: 12px">
-[Simon Harrer](https://twitter.com/simonharrer) is a senior consultant at INNOQ. As part of a remote mob, he fights everyday out for simple solutions with domain-driven design, fitting architectures such as microservices or monoliths, and clean code in Java, Ruby or even JavaScript. Most recently, he wrote the book [Java by Comparison](https://java.by-comparison.com) that helps Java beginners to write cleaner code through before/after comparisons.
+[Simon Harrer](https://twitter.com/simonharrer) is a senior consultant at INNOQ. As part of a remote mob, he fights everyday out for simple solutions with domain-driven design, fitting architectures such as microservices or monoliths, and clean code in Java, Ruby or even JavaScript. He wrote the book [Java by Comparison](https://java.by-comparison.com) that helps Java beginners to write cleaner code through before/after comparisons, and most recently, co-authored the website [Data Mesh Architecture](https://www.datamesh-architecture.com/).
 
 <img src="images/jochen-avatar.png" alt="Jochen" width="80" style="float:left; padding: 12px">
 [Jochen Christ](https://twitter.com/jochen_christ) is a senior consultant at INNOQ. As a specialist for modern Java technologies, he creates elegant solutions with innovative architecture concepts, such as Self-contained Systems, Kubernetes, and cloud computing. Jochen is interested in agile methods, clean code and usable security. Jochen is a speaker at international conferences and enjoys participating in local meetups.
