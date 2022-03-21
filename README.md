@@ -1,10 +1,7 @@
 # Remote Mob Programming
 
-**BREAKING NEWS: our tool [mob](https://mob.sh) is [on 'assess' in the latest Thoughtworks Technology Radar](https://twitter.com/simonharrer/status/1453372354097205253?s=20)**
-
 **New: [How to act as a typist](typist)**
 
----
 
 ![Remote Mob Programming Screenshot](images/remotemob_header_screen_grau.png)
 
