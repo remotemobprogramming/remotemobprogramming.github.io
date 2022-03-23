@@ -1,0 +1,56 @@
+<html>
+
+<head>
+<title>Rotation Time</title>
+
+
+
+</head>
+
+<body>
+<h1>Rotation Time</h1>
+
+<label>
+  Rotation in minutes
+  <input id="rotation" name="rotation" type="number" value="10" onchange="update()" min="1" required/>
+</label>
+<label>
+  Participants
+  <input id="size" name="size" type="number" value="4" onchange="update()" min="3" required />
+</label>
+
+<div>
+  Time to next turn (or time for Twitter): <span id="timeToNextTurn">30</span> minutes
+</div>
+
+<div>
+  <h3>What if?</h3>
+  <div>
+    +1 participant: <span id="timeToNextTurnPlusOne">20</span> minutes
+  </div>
+  <div>
+    -1 participant: <span id="timeToNextTurnMinusOne">40</span> minutes
+  </div>
+</div>
+
+
+<script type="application/javascript">
+  function timeToNextTurn(rotation, size) {
+    return rotation * (size - 1)
+  }
+
+  function update() {
+    let rotation = parseInt(document.getElementById('rotation').value)
+    let size = parseInt(document.getElementById('size').value)
+
+    document.getElementById('timeToNextTurn').innerText = timeToNextTurn(rotation, size)
+    document.getElementById('timeToNextTurnPlusOne').innerText = timeToNextTurn(rotation, size + 1)
+    document.getElementById('timeToNextTurnMinusOne').innerText = timeToNextTurn(rotation, size - 1)
+  }
+
+  update()
+</script>
+
+</body>
+
+</html>
