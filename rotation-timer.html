@@ -26,6 +26,7 @@
 
 <div style="margin-top: 1em;">
   Time to next turn (or time for Twitter): <strong><span id="timeToNextTurn">30</span> minutes</strong>
+  <img id="twitter" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" height="16">
 </div>
 
 <div>
@@ -48,7 +49,12 @@
     let rotation = parseInt(document.getElementById('rotation').value)
     let size = parseInt(document.getElementById('size').value)
 
-    document.getElementById('timeToNextTurn').innerText = timeToNextTurn(rotation, size)
+    let timeToNextTurnInMinutes = timeToNextTurn(rotation, size);
+    let upperBound = 120
+    let timeToNextTurnInMinutesUpperBound = Math.min(upperBound, timeToNextTurnInMinutes)
+    let opacity = (timeToNextTurnInMinutesUpperBound / upperBound)
+    document.getElementById('timeToNextTurn').innerText = timeToNextTurnInMinutes
+    document.getElementById('twitter').style = 'opacity: ' + opacity + ';'
     document.getElementById('timeToNextTurnPlusOne').innerText = timeToNextTurn(rotation, size + 1)
     document.getElementById('timeToNextTurnMinusOne').innerText = timeToNextTurn(rotation, size - 1)
   }
