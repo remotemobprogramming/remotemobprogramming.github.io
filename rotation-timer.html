@@ -9,18 +9,22 @@
 
 <body>
 <h1>Rotation Time</h1>
-
+<p><em>Time to next turn</em> is one of the main drivers of participant engagement.</p>
+<div>
 <label>
   Rotation in minutes
   <input id="rotation" name="rotation" type="number" value="10" onchange="update()" min="1" required/>
 </label>
+</div>
+<div>
 <label>
   Participants
   <input id="size" name="size" type="number" value="4" onchange="update()" min="3" required />
 </label>
+</div>
 
-<div>
-  Time to next turn (or time for Twitter): <span id="timeToNextTurn">30</span> minutes
+<div style="margin-top: 1em;">
+  Time to next turn (or time for Twitter): <strong><span id="timeToNextTurn">30</span> minutes</strong>
 </div>
 
 <div>
