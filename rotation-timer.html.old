@@ -1,0 +1,68 @@
+<html>
+
+<head>
+<title>Rotation Time</title>
+
+
+
+</head>
+
+<body>
+<h1>Rotation Time</h1>
+<p><em>Time to next turn</em> is one of the main drivers of participant engagement. In other words, the higher the time to next turn, the higher the probability to become disengaged.</p>
+<p>We recommend aiming for a time to next turn of around 30 minutes.</p>
+<div>
+<label>
+  Rotation in minutes
+  <input id="rotation" name="rotation" type="number" value="10" onchange="update()" min="1" required/>
+</label>
+</div>
+<div>
+<label>
+  Participants
+  <input id="size" name="size" type="number" value="4" onchange="update()" min="3" required />
+</label>
+</div>
+
+<div style="margin-top: 1em;">
+  Time to next turn <strong><span id="timeToNextTurn">30</span> minutes</strong>
+
+  (or time for Twitter <img id="twitter" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" height="16">)
+</div>
+
+<div>
+  <h3>What if?</h3>
+  <div>
+    +1 participant: <span id="timeToNextTurnPlusOne">20</span> minutes
+  </div>
+  <div>
+    -1 participant: <span id="timeToNextTurnMinusOne">40</span> minutes
+  </div>
+</div>
+
+
+<script type="application/javascript">
+  function timeToNextTurn(rotation, size) {
+    return rotation * (size - 1)
+  }
+
+  function update() {
+    let rotation = parseInt(document.getElementById('rotation').value)
+    let size = parseInt(document.getElementById('size').value)
+
+    let timeToNextTurnInMinutes = timeToNextTurn(rotation, size);
+    let upperBound = 120
+    let timeToNextTurnInMinutesUpperBound = Math.min(upperBound, timeToNextTurnInMinutes)
+    let opacity = (timeToNextTurnInMinutesUpperBound / upperBound)
+    document.getElementById('timeToNextTurn').innerText = timeToNextTurnInMinutes
+    document.getElementById('twitter').style = 'opacity: ' + opacity + ';'
+    document.getElementById('timeToNextTurnPlusOne').innerText = timeToNextTurn(rotation, size + 1)
+    document.getElementById('timeToNextTurnMinusOne').innerText = timeToNextTurn(rotation, size - 1)
+  }
+
+  update()
+</script>
+
+</body>
+
+</html>
