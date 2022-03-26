@@ -1,6 +1,6 @@
 # Remote Mob Programming
 
-**New: [How to act as a typist](typist)**
+**New: [How to act as a typist](typist) and a [rotation timer](rotation-timer)**
 
 
 ![Remote Mob Programming Screenshot](images/remotemob_header_screen_grau.png)

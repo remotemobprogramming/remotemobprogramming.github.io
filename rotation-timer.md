@@ -1,5 +1,3 @@
-## Rotation Time
-
 *Time to next turn* is one of the main drivers of participant engagement. In other words, the higher the time to next turn, the higher the probability to become disengaged.
 
 <div>
