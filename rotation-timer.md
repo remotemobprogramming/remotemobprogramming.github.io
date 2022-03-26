@@ -1,15 +1,6 @@
-<html>
+## Rotation Time
 
-<head>
-<title>Rotation Time</title>
-
-
-
-</head>
-
-<body>
-<h1>Rotation Time</h1>
-<p><em>Time to next turn</em> is one of the main drivers of participant engagement. In other words, the higher the time to next turn, the higher the probability to become disengaged.</p>
+*Time to next turn* is one of the main drivers of participant engagement. In other words, the higher the time to next turn, the higher the probability to become disengaged.
 
 <div>
 <label>
@@ -43,7 +34,3 @@
 
   update()
 </script>
-
-</body>
-
-</html>
