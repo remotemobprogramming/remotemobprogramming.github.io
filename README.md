@@ -295,7 +295,7 @@ Books
 
 - [Code with the Wisdom of the Crowd by Mark Pearl](https://pragprog.com/book/mpmob/code-with-the-wisdom-of-the-crowd)
 - [Mob Programming by Woody Zuill and Kevin Meadows](https://leanpub.com/mobprogramming)
-- [Mob Programming Guidebook by Maaret Pyhäjärvi](https://leanpub.com/mobprogrammingguidebook)
+- [Ensemble Programming Guidebook by Maaret Pyhäjärvi](https://leanpub.com/ensembleprogramming)
 - [Debugging Teams by Brian Fitzpatrick and Ben Collins-Sussman](http://shop.oreilly.com/product/0636920042372.do)
 
 Articles
