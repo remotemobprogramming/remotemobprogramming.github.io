@@ -45,7 +45,7 @@ Below, we summarize the essentials of successful Remote Mob Programming as we un
 - [Dine with your Family](#dine-with-your-family)
 
 
-### <img src="icons/remote-everybody.png" height="36" width="36" /> Remote Everybody
+### <img src="icons/remote-everybody.png" height="36" width="36" />&nbsp;&nbsp;Remote Everybody
 
 To collaborate well in a distributed team, it is essential that everybody works remotely by default.
 It does not work if part of the team works on-site. This will lead to [information asymmetry](https://en.wikipedia.org/wiki/Information_asymmetry).
@@ -57,7 +57,7 @@ In previous projects, we sometimes felt isolated from our colleagues.
 This radically changed with Remote Mob Programming.
 It is real team work.
 
-### <img src="icons/camera-always-on.png" width="36" height="36" /> Camera Always On
+### <img src="icons/camera-always-on.png" width="36" height="36" />&nbsp;&nbsp;Camera Always On
 
 Working face-to-face is powerful because we communicate with the whole body, not just our words.
 And we are much more attentive because any distraction like looking at the smartphone during a discussion will be detected immediately.
@@ -71,7 +71,7 @@ It's easy to see if someone is away from keyboard, talking to their children, or
 In a multi-monitor setup, we make sure that the camera is at our main screen so that you're looking at each other. 
 We mute when we go away from keyboard, but leave the camera on.
 
-### <img src="icons/regular-on-site-meetings.png" height="36" width="36" /> Regular On-Site Meetings
+### <img src="icons/regular-on-site-meetings.png" height="36" width="36" />&nbsp;&nbsp;Regular On-Site Meetings
 
 The better everybody knows each other, the better everybody can collaborate remotely.
 Getting to know each other works best on-site.
@@ -82,7 +82,7 @@ In the last few months, we met in awesome cities with good transport links, had 
 Have fun together in real life.
 
 
-### <img src="icons/small-team.png" width="36" height="36" /> Small Team
+### <img src="icons/small-team.png" width="36" height="36" />&nbsp;&nbsp;Small Team
 
 This is essential.
 The whole team works and focuses on the same thing.
@@ -99,7 +99,7 @@ In our experience, teams with three to four developers provide the best benefit-
 A team of four has the great benefit of still being able to form a mob, even if one person is absent.
 
 
-### <img src="icons/same-time.png" height="36" width="36" /> Same Time
+### <img src="icons/same-time.png" height="36" width="36" />&nbsp;&nbsp;Same Time
 
 One of the prerequisites of Mob Programming is working at the same time.
 
@@ -109,7 +109,7 @@ To reach these six hours, we align our core working hours.
 We also agree on the same lunch hour.
 Still, it's totally OK to have an external meeting, get your hair cut, or spend time with the family.
 
-### <img src="icons/typist-and-the-rest-of-the-mob.png" height="36" width="36" /> Typist and the Rest of the Mob
+### <img src="icons/typist-and-the-rest-of-the-mob.png" height="36" width="36" />&nbsp;&nbsp;Typist and the Rest of the Mob
 
 We adopted the terminology from [Code with the Wisdom of the Crowd by Mark Pearl](https://pragprog.com/book/mpmob/code-with-the-wisdom-of-the-crowd):
 
@@ -123,7 +123,7 @@ _We value the typist as they allow the rest of the mob to focus on solving the p
 The typist must not code on their own.
 This balances the participation of all team members and it reduces the dominance of strong characters.
 
-### <img src="icons/screen-sharing.png" height="36" width="36" /> Screen Sharing
+### <img src="icons/screen-sharing.png" height="36" width="36" />&nbsp;&nbsp;Screen Sharing
 
 We feel most comfortable working in our own individual environment.
 It is where we are most productive. 
@@ -145,7 +145,7 @@ Only the typist types, the rest of the mob must explain what to do through langu
 We accept the time to switch the shared screen at the start of the next mob interval.
 
 
-### <img src="icons/10-minute-intervals.png" height="36" width="36" /> 10 Minute Intervals
+### <img src="icons/10-minute-intervals.png" height="36" width="36" />&nbsp;&nbsp;10 Minute Intervals
 
 Every mob session has a specific goal (e.g. to implement a feature or fix a bug) and may last several hours.
 In a mob session, the typist role rotates periodically.
@@ -159,7 +159,7 @@ Shorter periods didn't work out for us because of the inherent switching costs i
 Surprisingly, taking your turn as a typist allows you a mental relaxation.
 You just wait for instructions.
 
-### <img src="icons/git-handover.png" height="36px" width="36px" /> Git Handover
+### <img src="icons/git-handover.png" height="36px" width="36px" />&nbsp;&nbsp;Git Handover
 
 With on-site Mob Programming, you just pass on the keyboard to hand over to the next person.
 This is a challenge for a distributed team.
@@ -175,7 +175,7 @@ At the end of the mob session, we [squash](https://git-scm.com/book/en/v2/Git-To
 
 We created the [mob](https://mob.sh) tool to simplify this process.
 
-### <img src="icons/group-decisions.png" height="36px" width="36px" /> Group Decisions
+### <img src="icons/group-decisions.png" height="36px" width="36px" />&nbsp;&nbsp;Group Decisions
 
 In software engineering, you constantly compare different alternatives and decide for one.
 Reversing decisions is often expensive.
@@ -190,7 +190,7 @@ As a consequence, we don't need code reviews or pull requests.
   
 We document decisions with extensive consequences using [Architecture Decision Records](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions).
 
-### <img src="icons/constant-momentum.png" height="36px" width="36px"> Constant Momentum
+### <img src="icons/constant-momentum.png" height="36px" width="36px">&nbsp;&nbsp;Constant Momentum
 
 In a feature branch-based workflow, you are blocked waiting for the code review of your pull request.
 While waiting, you start another feature and need to switch context.
@@ -205,7 +205,7 @@ _We get into a rewarding flow every day._
 As we aren't blocked by ourselves, we make good progress.
 It feels great.
 
-### <img src="icons/learn-from-the-team.png" height="36px" width="36px" /> Learn from the Team
+### <img src="icons/learn-from-the-team.png" height="36px" width="36px" />&nbsp;&nbsp;Learn from the Team
 
 Sharing knowledge is at the heart of Mob Programming.
 
@@ -222,7 +222,7 @@ And we also learn a lot of keyboard shortcuts all the time.
 
 With Mob Programming, onboarding only takes weeks, not years.
 
-### <img src="icons/trust.png" height="36px" width="36px" /> Trust
+### <img src="icons/trust.png" height="36px" width="36px" />&nbsp;&nbsp;Trust
 
 We all work remotely.
 The client does not _see_ us working.
@@ -245,7 +245,7 @@ Obviously, we have no need for a [Daily Scrum](https://www.scrum.org/resources/w
 We always take care to hold to our commitments and deliver high quality code in time.
 That builds solid trust in the long term.
 
-### <img src="icons/save-the-planet.png" height="36px" width="36px" /> Save the Planet
+### <img src="icons/save-the-planet.png" height="36px" width="36px" />&nbsp;&nbsp;Save the Planet
 
 Daily commuting causes traffic jams, crowded trains, and significant greenhouse gas emissions. 
 Even worse, many consultants fly to their customers' offices.
@@ -255,7 +255,7 @@ _We don't travel, so zero greenhouse gas emissions._
 No travel means no travel costs for us and our customers. 
 And at home, we always drink our fair-traded flat white from our Star Wars mugs.  
 
-### <img src="icons/dine-with-your-family.png" height="36px" width="36px" /> Dine with your Family
+### <img src="icons/dine-with-your-family.png" height="36px" width="36px" />&nbsp;&nbsp;Dine with your Family
 
 As software engineers, we often struggle to balance challenging and rewarding work with time for family and leisure.
 Sometimes, it feels mutually exclusive.
