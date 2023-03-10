@@ -301,6 +301,11 @@ Books
 Articles
 
 - [Remote Mob Programming at Shopify](https://shopify.engineering/mob-programming)
+- [Remote Mob Programming at INNOQ](https://www.innoq.com/en/articles/2021/01/remote-mob-programming-bei-innoq/)
+- [Round-robin coding (INNOQ)](https://www.innoq.com/en/articles/2023/03/typist-wechsel-dich-remote-edition-code-uebergabe-mit-dem-mob-tool/)
+- [Mob Programming – Remote Teams in the Flow (T-Systems Multimedia Solutions)](https://blog.t-systems-mms.com/tech-insights/mob-programming-remote-teams-in-the-flow)
+- [Our experience with Remote Mob Programming (PayFit)](https://backstage.payfit.com/our-experience-on-mob-programming/)
+- [Mob programming builds better remote development teams (Upvest)](https://engineering.upvest.co/posts/remote-mob-programming/remote-mob-programming/)
 
 Videos and Podcasts
 
@@ -310,6 +315,7 @@ Videos and Podcasts
 - [Episode 'Mob' in Agile in 3 Minutes by Amitai Schleier](https://agilein3minut.es/32/)
 - [JCon 2019: Remote Mob Programming by Jochen (German)](https://www.youtube.com/watch?v=-CkxwtXRKp8)
 - [Interview of Simon Harrer by Marc Löffler on the Passionate Teams Podcast (German)](https://marcloeffler.eu/2019/12/15/was-ist-eigentlich-mob-programming-ein-interview-mit-dr-simon-harrer/)
+- [Episode 'Remote Mob Programming with Jochen Christ, Franziska Dessart, Simon Harrer, Martin Huber' in Software Architektur im Stream by Eberhard Wolff (German)](https://www.youtube.com/watch?v=-02gte-IKpY)
 
 ## Press
 
