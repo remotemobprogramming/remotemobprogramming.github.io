@@ -269,6 +269,8 @@ With Remote Mob Programming we get both, rewarding work and quality time with ou
 
 ## Resources
 
+_New: We created the website [effectivehomeoffice.github.io](https://effectivehomeoffice.github.io/) listing our equipment._
+
 Methods we use
 
 - [Daily check-ins](#trust) to actively communicate our experiences to other teams and managers.
